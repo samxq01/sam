@@ -1,0 +1,7 @@
+Dataset: Titanic Dataset
+
+Source:
+https://www.kaggle.com/datasets/yasserh/titanic-dataset
+
+Description:
+The Titanic dataset contains passenger information used to predict survival.
